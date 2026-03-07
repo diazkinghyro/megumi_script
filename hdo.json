@@ -1,15 +1,4 @@
 {
-  "notification": {
-    "url": "https://ostream.io/",
-    "title": "Introducing Our Partner’s iOS App!",
-    "contents": "<p>Visit to explore the quick start guide and enjoy the new experience. ✨📱</p>",
-    "btn_title": "Visit",
-    "show": false,
-    "key": "NOTI_2.1"
-  },
-  "ads_config": {
-    "init_ads": "admob"
-  },
   "tmdb_apikey": {
     "ios_key": "63cbd7bb8ca53a31817a418b2cfb7e6a",
     "android_key": "63cbd7bb8ca53a31817a418b2cfb7e6a"
