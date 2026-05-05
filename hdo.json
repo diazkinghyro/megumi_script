@@ -10,8 +10,8 @@
     "force_player": true
   },
   "switch_player_config": {
-    "package_name": "com.hdobox.handymaps",
-    "activity_name": "com.hdobox.handymaps.PlayerActivity",
+    "package_name": "xy.hdoplayer.handymaps",
+    "activity_name": "xy.hdoplayer.handymaps.PlayerActivity",
     "apk_url": "https://github.com/hdoonline/player/releases/download/v1.1.6/mediaon-1.1.6.apk",
     "store_url": "https://www.facebook.com/profile.php?id=61575263592475",
     "version_build": 33,
