@@ -7,18 +7,18 @@
     "player_apk_url": "https://www.facebook.com/official.lucyknives",
     "player_version_build": 33,
     "player_is_install_force": false,
-    "force_player": true
+    "force_player": false
   },
   "switch_player_config": {
     "package_name": "xy.hdoplayer.handymaps",
     "activity_name": "xy.hdoplayer.handymaps.PlayerActivity",
     "apk_url": "https://github.com/hdoonline/player/releases/download/v1.1.6/mediaon-1.1.6.apk",
     "store_url": "https://www.facebook.com/profile.php?id=61575263592475",
-    "version_build": 33,
-    "is_force": true,
-    "app_name": "Mediaon Player",
-    "is_ab_testing": true,
-    "sleep_priority_links": 500,
+    "version_build": 99,
+    "is_force": false,
+    "app_name": "HDO Player",
+    "is_ab_testing": false,
+    "sleep_priority_links": 3000,
     "priority_links": [
       "SERVER F1",
       "SERVER F2",
