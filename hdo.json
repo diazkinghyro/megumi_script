@@ -10,7 +10,7 @@
     "force_player": true
   },
   "switch_player_config": {
-    "package_name": "com.hdobox.player",
+    "package_name": "com.hdobox.lordking",
     "activity_name": "com.hdobox.player.PlayerActivity",
     "apk_url": "https://github.com/hdoonline/player/releases/download/v1.1.6/mediaon-1.1.6.apk",
     "store_url": "https://www.facebook.com/profile.php?id=61575263592475",
